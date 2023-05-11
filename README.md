@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
   <img src="https://github.com/matplotlib/matplotlib/blob/main/doc/_static/matplotlib-icon.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;  
   <img src="https://github.com/seaborn/seaborn/blob/master/doc/_static/logo-mark-darkbg.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
   <img src="https://github.com/ClickHouse/clickhouse-docs/blob/main/static/images/logo-180x180.png" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
   
 

@@ -15,5 +15,8 @@
      - Email: alla11777@yandex.ru
      - [Telegram](<https://t.me/lanfrein>)
      - [WhatsApp](<https://api.whatsapp.com/send? phone=9265017902>)
-     - 
-#### :hammer_and_wrench: Инструменты:
+  
+#### :hammer_and_wrench: Языки и инструменты:
+<div>
+  <https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  

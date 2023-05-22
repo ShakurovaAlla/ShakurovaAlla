@@ -14,7 +14,6 @@
 - 💬 Мои контакты:
      - Email: alla11777@yandex.ru
      - [Telegram](<https://t.me/lanfrein>)
-     - [WhatsApp](<https://api.whatsapp.com/send? phone=9265017902>)
   
 #### :hammer_and_wrench: Языки и инструменты:
 <div>
